@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Gawali</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Developement**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **omgawali777@gmail.com**
 
