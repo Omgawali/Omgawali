@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **omgawali777@gmail.com**
+- 👯 I’m willing to collaborate on building communitites, and research projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
