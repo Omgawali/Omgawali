@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Gawali</h1>
+<h1 align="center">Hi<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Om Gawali</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
